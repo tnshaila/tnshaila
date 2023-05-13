@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanzina Naznin Shaila</h1>
-<h3 align="center">A passionate UI/UX Designer from Bangladesh</h3>
+<h3 align="center">I'm an undergraduate student of computer science with a keen interest in machine learning, artificial intelligence, and deep learning. As I continue to immerse myself in these cutting-edge areas, I remain intrigued by the exciting research opportunities and new advancements. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tnshaila&label=Profile%20views&color=0e75b6&style=flat" alt="tnshaila" /> </p>
 
